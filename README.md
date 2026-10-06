@@ -71,7 +71,7 @@ The fabric is finished and converted into the final functional tote bag.
 
 ### See the Craft Behind the Product
 
-![Making Process Video Preview](making-process.jpg)
+<img width="1672" height="941" alt="Eco-Friendly Tote Bag Showcase" src="https://github.com/user-attachments/assets/56dd1642-2e0b-4a86-ae57-f3d93351738a" />
 
 ▶ **[PROTOTYPE DEMO] Direct Making-Process Reel**
 
