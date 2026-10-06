@@ -1,56 +1,105 @@
 # THE LINEAGE
 ## MAKE HANDMADE COOL
 
-### ARTISAN ID
-**#BAG-2026-084**
+---
 
-**Authenticated Craft Batch — Prototype Demo**
+# PRODUCT: TOTE BAG
+
+![Product Photo](product-photo.jpg)
+
+### PRODUCT DETAILS
+
+**Product:** Modern-Heritage Canvas Tote Bag  
+**Material:** 380 GSM Heavyweight Organic Unbleached Canvas  
+**Design:** Contemporary floral-inspired hand-block print  
+**Craft Technique:** Hand Block Printing  
+**Collection:** Everyday Statement  
+**Positioning:** Sustainable • Functional • Unique
 
 ---
 
-## MAKER
+# ARTISAN DETAILS
 
-**Ram Swaroop Chippa**  
-Bagru Cluster, Rajasthan  
+### Meet the Maker
 
-**Lineage:**  
-5th Generation Hand-Block Carver & Master Printer
+**Name:** Ram Swaroop Chippa  
+**Origin:** Bagru Cluster, Rajasthan  
+**Craft:** Hand-Block Printing  
+**Lineage:** 5th Generation Hand-Block Carver & Master Printer
 
----
-
-## BATCH & IMPACT
-
-**Time Taken:** 4.5 Hours Handcrafting
-
-**Dye Type:**  
-100% Fermented Indigo & Natural Mud-Resist (Dabu)
-
-**Artisan Direct Pay:**  
-₹770 — 35% of Retail SRP
-
-**Fabric:**  
-380 GSM Heavyweight Organic Unbleached Canvas
+The product is inspired by the traditional craft heritage of the
+Bagru hand-block printing cluster.
 
 ---
 
-## MAKING PROCESS
+# MAKING DETAILS
 
-🎥 **[PROTOTYPE DEMO] Direct Making-Process Reel**
+### From Craft to Product
+
+**Step 1 — Design**  
+A modern design is developed while retaining the essence of traditional craft.
+
+**Step 2 — Block Preparation**  
+Traditional wooden blocks are used for the printing process.
+
+**Step 3 — Hand Printing**  
+The design is carefully printed onto the canvas by hand.
+
+**Step 4 — Finishing**  
+The fabric is finished and converted into the final functional tote bag.
+
+**Crafting Time:** 4.5 Hours
+
+---
+
+# BATCH & IMPACT
+
+| Details | Information |
+|---|---|
+| Artisan ID | #BAG-2026-084 |
+| Time Taken | 4.5 Hours |
+| Dye Type | Fermented Indigo & Natural Mud-Resist (Dabu) |
+| Fabric | 380 GSM Heavyweight Organic Unbleached Canvas |
+| Artisan Direct Pay | ₹770 |
+| Artisan Share | 35% of Retail SRP |
+| Craft Cluster | Bagru, Rajasthan |
+
+---
+
+# MAKING PROCESS
+
+### See the Craft Behind the Product
+
+![Making Process Video Preview](making-process.jpg)
+
+▶ **[PROTOTYPE DEMO] Direct Making-Process Reel**
 
 **Pilot Preview:**  
 Artisan Making Reel — Sourced via Bagru Hand-Block Cluster
 
-The commercial production version will feature verified
-on-site making-process footage from the artisan cluster.
+> This prototype demonstrates how The Lineage's Artisan ID
+> connects the physical product with its maker, craft process
+> and impact information.
 
 ---
 
-## OUR PROMISE
+# ARTISAN ID
 
-Every product tells a story.
+**#BAG-2026-084**
 
-Every artisan deserves recognition.
+The Artisan ID is designed to provide transparency about:
 
-Every purchase creates measurable impact.
+- Who made the product
+- Where it was made
+- How it was made
+- Time involved in making
+- Artisan compensation
+- Batch-level impact
 
-**THE LINEAGE — MAKE HANDMADE COOL**
+---
+
+## THE LINEAGE
+
+### MAKE HANDMADE COOL
+
+**From Pity Purchase to Patron Pride.**
