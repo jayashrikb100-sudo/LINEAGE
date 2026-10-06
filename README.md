@@ -5,7 +5,8 @@
 
 # PRODUCT: TOTE BAG
 
-![Product Photo](product-photo.jpg)
+<img width="1024" height="1536" alt="Eco-Friendly Tote Bag Poster" src="https://github.com/user-attachments/assets/549aafd4-98fb-4ec4-aafa-bb4bca79643d" />
+
 
 ### PRODUCT DETAILS
 
