@@ -5,7 +5,7 @@
 
 # PRODUCT: TOTE BAG
 
-<img width="1024" height="1536" alt="Eco-Friendly Tote Bag Poster" src="https://github.com/user-attachments/assets/549aafd4-98fb-4ec4-aafa-bb4bca79643d" />
+<img width="1792" height="2400" alt="Gemini_Generated_Image_jg2pozjg2pozjg2p" src="https://github.com/user-attachments/assets/d8147373-5dc7-4d87-aa60-5528e32452cc" />
 
 
 ### PRODUCT DETAILS
@@ -71,7 +71,7 @@ The fabric is finished and converted into the final functional tote bag.
 
 ### See the Craft Behind the Product
 
-<img width="1672" height="941" alt="Eco-Friendly Tote Bag Showcase" src="https://github.com/user-attachments/assets/56dd1642-2e0b-4a86-ae57-f3d93351738a" />
+<img width="1537" height="953" alt="Untitled design" src="https://github.com/user-attachments/assets/70769fdf-797c-4ce1-b77e-f73b0040b3b0" />
 
 ▶ **[PROTOTYPE DEMO] Direct Making-Process Reel**
 
